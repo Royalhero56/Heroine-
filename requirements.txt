@@ -1,4 +1,5 @@
-pyrogram==2.0.38
+pyrogram
 tgcrypto
 motor
 python-dotenv
+openai
